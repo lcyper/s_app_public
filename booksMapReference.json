@@ -1,0 +1,36 @@
+{
+  "tehilim": {
+    "files": {
+      "he": "Psalms-he-Tanach-with-Nikkud.json"
+    },
+    "title": {
+      "he": "תהילים",
+      "en": "Tehilim",
+    },
+    "cycles": ["30", "5", "7"]
+  },
+  "jumash": {
+    "files": {
+      "he": {
+        "Genesis": "Genesis-he-Tanach-with-Nikkud.json",
+        "Exodus": "Exodus-he-Tanach-with-Nikkud.json",
+        "Leviticus": "Leviticus-he-Tanach-with-Nikkud.json",
+        "Numbers": "Numbers-he-Tanach-with-Nikkud.json",
+        "Deuteronomy": "Deuteronomy-he-Tanach-with-Nikkud.json"
+      },
+      "rashi": {
+        "Genesis": "Rashi-on-Genesis-he-On-Your-Way.json",
+        "Exodus": "Rashi-on-Exodus-he-On-Your-Way.json",
+        "Leviticus": "Rashi-on-Leviticus-he-On-Your-Way.json",
+        "Numbers": "Rashi-on-Numbers-he-On-Your-Way.json",
+        "Deuteronomy": "Rashi-on-Deuteronomy-he-On-Your-Way.json"
+      }
+    },
+    "title": {
+      "he": "חומש",
+      "en": "Chumash",
+      "es": "Jumash"
+    },
+    "cycles": ["1 year"]
+  }
+}
